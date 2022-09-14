@@ -23,11 +23,10 @@ Here are some ideas to get you started:
 
 
 <p align='left' padding="10px" margin="10px">
-        I am a web developer in constant<br>
-        search for new knowledge, with<br>
-        experience in Laravel and SQL. Passionate about<br>
-        music and painting, I like creative<br>
-        solutions and teamwork<br>
+        - 👨🏽‍💻 I am a web developer in constant search for new knowledge, with experience in Laravel and SQL. <br>
+        - 🎨 Passionate about music and painting, I like creative solutions and teamwork.<br>
+        - 🗒 I’m currently learning Angular and React.<br>
+        - <img class="emoji" title=":shipit:" alt=":shipit:" src="https://github.githubassets.com/images/icons/emoji/shipit.png" height="20" width="20" align="absmiddle"> My next plan is to dominate the world.
 </p>
 
 
