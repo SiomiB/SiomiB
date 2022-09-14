@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <br>
 
 
-<img align='right' src='https://media.giphy.com/media/EJXad2ccqE7AlO1omw/giphy.gif' width='250"'>
+<img align='right' src='https://media.giphy.com/media/EJXad2ccqE7AlO1omw/giphy.gif' width='150"'>
 
 
 <p align='left' padding="10px" margin="10px">
